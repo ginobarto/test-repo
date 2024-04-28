@@ -1,6 +1,5 @@
 # test-repo
 Testing repository
-agrego una linea desde mi pc
 
-## otra seccion
-adasdasd
+## Testing repo from laptop
+Testing repo
